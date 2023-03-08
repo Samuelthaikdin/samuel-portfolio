@@ -40,17 +40,17 @@ const IndexProject = () => {
             </Link>
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl mt-10 bg-white flex-1 transition duration-500 hover:scale-110 cursor-pointer">
-            <Link href="./boardgamepage">
-              <p className="text-gray-500 pt-3"> UX/UI RESEARCH</p>
-
+            <Link href="./dininghallresearch">
+              <p className="text-gray-500 pt-3"> UX RESEARCH</p>
               <h3 className="text-xl font-bold pt-8 pb-2  ">
-                Prototyping a Board Game
+                User Research on Campus Dining Hall
               </h3>
-              <p className="py-2">
-                Developing and Designing a Board game base on User Research
+              <p className="py-2  ">
+                Research on Student's Experience with the Campus Dinning
+                Services
               </p>
               <h4 className="py-4 text-teal-700">
-                UX Researach and Prototyping
+                UX Research and Prototyping
               </h4>
             </Link>
           </div>
