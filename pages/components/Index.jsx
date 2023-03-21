@@ -14,7 +14,7 @@ const Index = () => {
       <h3 className="py-2 text-white text-3xl">
         an aspiring{" "}
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 via-violet-500 to-pink-500">
-          Web Devloper & UX/UI Designer{" "}
+          Web Developer & UX/UI Designer{" "}
         </span>
       </h3>
       <p className="text-gray-200 max-w-xl mx-auto text-lg ">
