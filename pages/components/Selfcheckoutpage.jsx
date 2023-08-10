@@ -87,6 +87,7 @@ function Selfcheckoutpage() {
             </div>
           </div>
         </div>
+        {/*Content*/}
         <div className="max-w-full px-10 md:px-20 xl:px-32 space-y-10 relative">
           <div class="max-w-5xl mx-auto rounded-2xl bg-neutral-100 p-10">
             <h2 class="font-semibold text-lg sm:text-xl mb-6">Challenge</h2>
@@ -388,7 +389,7 @@ function Selfcheckoutpage() {
           <div class="max-w-5xl mx-auto rounded-2xl bg-neutral-100 p-10">
             <h2 class="font-semibold text-lg sm:text-xl mb-6">Outcome</h2>
             <div class="space-y-6 sm:text-lg text-neutral-600">
-              <p>
+              <p className="font-semibold">
                 This was not an official study commissioned by the University of
                 Toronto, nor is it affiliated with the university. It was
                 conducted during a user experience design course and, although

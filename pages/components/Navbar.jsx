@@ -33,7 +33,7 @@ const Navbar = () => {
         <li className="px-5">
           <a
             className="hover:text-cyan-500 hover:scale-105 duration-200"
-            href="/Resume.pdf
+            href="/Samuel Din Resume.pdf
                   "
             target={"_blank"}
           >
